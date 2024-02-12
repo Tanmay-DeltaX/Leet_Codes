@@ -1,0 +1,9 @@
+Input= [1,2,5]
+       [2,4,1]
+Output = [3,6,6]
+
+
+First , the two lists are nested in another list.
+And then run through a loop in which they are multiplied by the respective powers of 10 and then added to a variable.
+Now we have our output value and we only have to convert it into a list.
+For that:this integer is converted to a string and then run through a loop and each value is added to a list as a integer.
